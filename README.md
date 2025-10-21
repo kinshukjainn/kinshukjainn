@@ -28,20 +28,9 @@
 ### 🧰 Tech Stack
 #### ⚙️ Languages, Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,tailwind,java,js,ts,nodejs,vite,git,github,linux,bash,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,react,tailwind,java,ts,nodejs,vite,git,github,linux" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinshukjainn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=kinshukjainn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshukjainn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
