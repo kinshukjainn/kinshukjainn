@@ -21,7 +21,7 @@
 - 🚧 Crafting projects with **React + TailwindCSS + Vite**
 - ☁️ Experimenting with **AWS services** – EC2, Lambda, S3, IAM, CloudFront
 - 🧩 Integrating **Next.js**, **API routes**, and **modern web patterns**
-- ✍️ Writing blogs at [**CloudKinshuk.in**](https://blogs.cloudkinshuk.in)
+- ✍️ Writing blogs at [**CloudKinshuk**](https://blogs.cloudkinshuk.in)
 
 ---
 
@@ -39,7 +39,6 @@
   <a href="https://linkedin.com/in/kinshukjainn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:kinshuk25jan04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://github.com/kinshukjainn" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://blogs.cloudkinshuk.in" target="_blank"><img src="https://skillicons.dev/icons?i=hashnode" width="40" /></a>
 </p>
 
 ---
