@@ -21,7 +21,7 @@
 - 🚧 Crafting projects with **React + TailwindCSS + Vite**
 - ☁️ Experimenting with **AWS services** – EC2, Lambda, S3, IAM, CloudFront
 - 🧩 Integrating **Next.js**, **API routes**, and **modern web patterns**
-- ✍️ Writing blogs at [**CloudKinshuk**](https://blogs.cloudkinshuk.in)
+- ✍️ Writing blogs at [**CloudKinshuk**](https://cloudkinshuk.in/home-blog)
 
 ---
 
